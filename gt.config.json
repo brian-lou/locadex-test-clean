@@ -1,0 +1,15 @@
+{
+  "projectId": "prj_m0l77q3gdf9xna8oynihv5rw",
+  "locales": [
+    "en",
+    "es"
+  ],
+  "baseUrl": "http://localhost:10000",
+  "defaultLocale": "en",
+  "files": {
+    "gt": {
+      "output": "public/_gt/[locale].json"
+    }
+  },
+  "framework": "next-app"
+}
