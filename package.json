@@ -10,7 +10,7 @@
     "translate": "locadex translate"
   },
   "dependencies": {
-    "gt-next": "^6.2.5-alpha.3",
+    "gt-next": "^6.3.3",
     "next": "15.3.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
