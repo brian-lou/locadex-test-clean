@@ -1,0 +1,33 @@
+{
+  "5aa871958a8f167b": "Crear Next App",
+  "039ccefb7f335e27": "Generado por create next app",
+  "43f264423a387dac": "Lee nuestra Documentación",
+  "ae615e576a663d66": "Aprender",
+  "71e7df991a13fd70": {
+    "t": "ol",
+    "i": 1,
+    "c": [
+      {
+        "t": "li",
+        "i": 2,
+        "c": [
+          "Empieza editando ",
+          {
+            "t": "code",
+            "i": 3,
+            "c": "src/app/page.tsx"
+          },
+          "."
+        ]
+      },
+      {
+        "t": "li",
+        "i": 4,
+        "c": "Guarda y verás tus cambios al instante."
+      }
+    ]
+  },
+  "48a877d410cd2818": "Ir a nextjs.org →",
+  "8f4ad63a5e46f1ca": "Desplegar ahora",
+  "680b347b7326d4db": "Ejemplos"
+}
