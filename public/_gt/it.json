@@ -1,0 +1,39 @@
+{
+  "5aa871958a8f167b": "Crea Next App",
+  "039ccefb7f335e27": "Generato da Crea Next App",
+  "71e7df991a13fd70": {
+    "t": "ol",
+    "i": 1,
+    "c": [
+      {
+        "t": "li",
+        "i": 2,
+        "c": [
+          "Inizia modificando ",
+          {
+            "t": "code",
+            "i": 3,
+            "c": "src/app/page.tsx"
+          },
+          "."
+        ]
+      },
+      {
+        "t": "li",
+        "i": 4,
+        "c": "Salva e vedi subito le modifiche."
+      }
+    ]
+  },
+  "8f4ad63a5e46f1ca": "Distribuisci ora",
+  "43f264423a387dac": "Leggi la nostra Documentazione",
+  "ae615e576a663d66": "Impara",
+  "680b347b7326d4db": "Esempi",
+  "48a877d410cd2818": "Vai su nextjs.org →",
+  "e4e5b06f9f2359c1": "Logo di Next.js",
+  "81f4d639ae326f49": "Icona file",
+  "0c088ae4cce7f188": "Marchio logotipo Vercel",
+  "27ffcf9f4583b9dc": "Icona del globo",
+  "1c09b83b3ced8010": "La mia app",
+  "ae8e26f27c2077ac": "Icona finestra"
+}
