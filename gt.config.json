@@ -1,0 +1,9 @@
+{
+  "locales": [
+    "en",
+    "zh",
+    "ja"
+  ],
+  "baseUrl": "https://bb13c5588563.ngrok-free.app",
+  "defaultLocale": "en"
+}
