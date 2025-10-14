@@ -1,0 +1,19 @@
+{
+  "5aa871958a8f167b": "Create Next App",
+  "039ccefb7f335e27": "create next app によって生成されました",
+  "get_started": [
+    "編集から始めましょう ",
+    {
+      "t": "code",
+      "i": 1,
+      "c": "src/app/page.tsx"
+    },
+    "。"
+  ],
+  "save_changes": "保存すると、変更が即座に反映されます。",
+  "deploy_now": "今すぐデプロイする",
+  "read_docs": "ドキュメントを読む",
+  "learn": "学習",
+  "examples": "サンプル",
+  "go_to_nextjs": "nextjs.org に移動 →"
+}
