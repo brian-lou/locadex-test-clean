@@ -1,0 +1,17 @@
+{
+  "$schema": "https://assets.gtx.dev/config-schema.json",
+  "locales": [
+    "en",
+    "zh",
+    "ja"
+  ],
+  "baseUrl": "https://brian-api.ngrok.app",
+  "defaultLocale": "en",
+  "files": {
+    "gt": {
+      "output": "public/_gt/[locale].json"
+    }
+  },
+  "framework": "next-app",
+  "_versionId": "41e8e564a9048bf7d7fe216342a97b303030bba035d18d04ce73223fa0e7524b"
+}
