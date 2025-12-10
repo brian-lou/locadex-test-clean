@@ -4,6 +4,6 @@
     "zh",
     "ja"
   ],
-  "baseUrl": "https://brian-api.ngrok.app",
+  "baseUrl": "https://api.gtx.wtf",
   "defaultLocale": "en"
 }
