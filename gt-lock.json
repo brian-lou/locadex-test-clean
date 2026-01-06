@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entries": {
+    "brc_wpmckksj3af33g7jciu1uhks": {
+      "879f3a5f954ee8b75bf1e91f4ea9916b41c933e5beba7eb6362647a637c9c66d": {
+        "d20eb1107d3291e5336f70efc746d5b722f1aff62493e93306b7b8e2b2c5383a": {
+          "zh": {
+            "updatedAt": "2026-01-06T20:14:32.438Z",
+            "postProcessHash": "afba57ccdce1ea7d0f0e41d45b892ebf909ab4cfbf9688efff63620fae1fd734"
+          },
+          "ja": {
+            "updatedAt": "2026-01-06T20:14:32.440Z",
+            "postProcessHash": "43997195641dc3ab6934380b7f413c178fcf37d25b9c0071aa81f39d74906e9c"
+          }
+        }
+      }
+    }
+  }
+}
