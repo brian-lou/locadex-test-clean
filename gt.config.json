@@ -3,7 +3,8 @@
   "locales": [
     "en",
     "zh",
-    "ja"
+    "ja",
+    "ko"
   ],
   "baseUrl": "https://brian-api.ngrok.app",
   "defaultLocale": "en",
