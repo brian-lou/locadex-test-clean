@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { LocaleSelector } from "gt-next";
 
 export default function Home() {
   return (
@@ -97,6 +98,7 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+        <LocaleSelector />
       </footer>
     </div>
   );
