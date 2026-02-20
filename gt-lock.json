@@ -1,3 +1,19 @@
 {
-  "locadexModifiedAt": 1771380903558
+  "version": 1,
+  "entries": {
+    "3325745d19779e1ca6e78935be0f1f12": {
+      "879f3a5f954ee8b75bf1e91f4ea9916b41c933e5beba7eb6362647a637c9c66d": {
+        "127f6c26f0ab7b99a454a920fcd90b79a2640465a5084e973c56bd0e85e8dcc6": {
+          "ja": {
+            "updatedAt": "2026-02-20T20:38:12.858Z",
+            "postProcessHash": "b0f94e28236b4dedfc2612d2eeb3507d98740eae1624099702e43e9d8d96150c"
+          },
+          "zh": {
+            "updatedAt": "2026-02-20T20:38:12.859Z",
+            "postProcessHash": "c5886ac12f47f65ed73fc01a924ab48a61f567d2a2b3ea2ff1b19608fb35c752"
+          }
+        }
+      }
+    }
+  }
 }
