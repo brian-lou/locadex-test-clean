@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "gt-next": "^6.12.13",
+    "gt-next": "^6.12.16",
     "next": "15.3.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
