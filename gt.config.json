@@ -1,0 +1,14 @@
+{
+  "locales": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt-BR",
+    "zh",
+    "ja"
+  ],
+  "baseUrl": "https://brian-api.ngrok.app",
+  "defaultLocale": "en"
+}
