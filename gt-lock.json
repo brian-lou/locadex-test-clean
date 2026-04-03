@@ -1,3 +1,49 @@
 {
-  "locadexModifiedAt": 1775175813280
+  "version": 2,
+  "branchId": "",
+  "entries": [
+    {
+      "fileId": "879f3a5f954ee8b75bf1e91f4ea9916b41c933e5beba7eb6362647a637c9c66d",
+      "versionId": "28895334411c6d63570b4ed7203489c7c005581ed01a55007c9d310c460bbee4",
+      "translations": {
+        "de": {
+          "updatedAt": "2026-04-03T00:34:10.002Z",
+          "fileName": "/root/repo/public/_gt/de.json",
+          "postProcessHash": "292bd243c2c56db917b0ca6898bded80adfa74ebfe987bb963dfda96bcabe6fd"
+        },
+        "es": {
+          "updatedAt": "2026-04-03T00:34:10.006Z",
+          "fileName": "/root/repo/public/_gt/es.json",
+          "postProcessHash": "db85624171dea35dfff63c2252ac66378384eb0f80a384c53bcac89a5adcd2e5"
+        },
+        "fr": {
+          "updatedAt": "2026-04-03T00:34:10.007Z",
+          "fileName": "/root/repo/public/_gt/fr.json",
+          "postProcessHash": "46f7107ce84f92750bd1099d01bda73bc484722f4247c9fedc694d6febc25590"
+        },
+        "it": {
+          "updatedAt": "2026-04-03T00:34:10.008Z",
+          "fileName": "/root/repo/public/_gt/it.json",
+          "postProcessHash": "c0e37246751bb5c66902b41a6aa099b355793958b86985de4034ac8d3ccc9f39"
+        },
+        "ja": {
+          "updatedAt": "2026-04-03T00:34:10.008Z",
+          "fileName": "/root/repo/public/_gt/ja.json",
+          "postProcessHash": "c8461be93a59dca496e744e835ed5b79de8feb52c5dd3b69464678bac3b2e772"
+        },
+        "pt-BR": {
+          "updatedAt": "2026-04-03T00:34:10.009Z",
+          "fileName": "/root/repo/public/_gt/pt-BR.json",
+          "postProcessHash": "255761e8872d6021ad0d608366f64a2b36c2cad75d39895e6e2321a02cfbca87"
+        },
+        "zh": {
+          "updatedAt": "2026-04-03T00:34:10.010Z",
+          "fileName": "/root/repo/public/_gt/zh.json",
+          "postProcessHash": "c8c76a07b0971db51fa4bf9f4760080a64f548a83abd3d7f5b75397366e59bb1"
+        }
+      },
+      "fileName": "__INTERNAL_GT_TEMPLATE_NAME__",
+      "staged": false
+    }
+  ]
 }
