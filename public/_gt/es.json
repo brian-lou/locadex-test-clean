@@ -1,1 +1,81 @@
-{}
+{
+  "039ccefb7f335e27": "Generado por create next app",
+  "0c088ae4cce7f188": "Isotipo de Vercel",
+  "27ffcf9f4583b9dc": "Icono de globo terráqueo",
+  "3838c7ec2a2da5dd": {
+    "c": [
+      {
+        "i": 2,
+        "t": "Image"
+      },
+      "Aprender"
+    ],
+    "i": 1,
+    "t": "a"
+  },
+  "493c8266e82286b4": {
+    "c": [
+      {
+        "i": 2,
+        "t": "Image"
+      },
+      "Ve a nextjs.org →"
+    ],
+    "i": 1,
+    "t": "a"
+  },
+  "5aa871958a8f167b": "Crear Next App",
+  "70241ddee8df6835": {
+    "c": [
+      {
+        "i": 2,
+        "t": "Image"
+      },
+      "Despliega ahora"
+    ],
+    "i": 1,
+    "t": "a"
+  },
+  "71e7df991a13fd70": {
+    "c": [
+      {
+        "c": [
+          "Empieza editando ",
+          {
+            "c": "src/app/page.tsx",
+            "i": 3,
+            "t": "code"
+          },
+          "."
+        ],
+        "i": 2,
+        "t": "li"
+      },
+      {
+        "c": "Guarda y verás tus cambios al instante.",
+        "i": 4,
+        "t": "li"
+      }
+    ],
+    "i": 1,
+    "t": "ol"
+  },
+  "81f4d639ae326f49": "Ícono de archivo",
+  "86cb49b07c50995d": {
+    "c": [
+      {
+        "i": 2,
+        "t": "Image"
+      },
+      "Ejemplos"
+    ],
+    "i": 1,
+    "t": "a"
+  },
+  "ae8e26f27c2077ac": "Icono de ventana",
+  "e82a533799ffa296": {
+    "c": "Consulta nuestra documentación",
+    "i": 1,
+    "t": "a"
+  }
+}
