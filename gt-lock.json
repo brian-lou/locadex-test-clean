@@ -1,3 +1,24 @@
 {
-  "locadexModifiedAt": 1771380903558
+  "version": 2,
+  "branchId": "",
+  "entries": [
+    {
+      "fileId": "879f3a5f954ee8b75bf1e91f4ea9916b41c933e5beba7eb6362647a637c9c66d",
+      "versionId": "127f6c26f0ab7b99a454a920fcd90b79a2640465a5084e973c56bd0e85e8dcc6",
+      "translations": {
+        "ja": {
+          "updatedAt": "2026-05-11T19:38:47.501Z",
+          "fileName": "/home/daytona/repo/public/_gt/ja.json",
+          "postProcessHash": "b0f94e28236b4dedfc2612d2eeb3507d98740eae1624099702e43e9d8d96150c"
+        },
+        "zh": {
+          "updatedAt": "2026-05-11T19:38:47.502Z",
+          "fileName": "/home/daytona/repo/public/_gt/zh.json",
+          "postProcessHash": "c5886ac12f47f65ed73fc01a924ab48a61f567d2a2b3ea2ff1b19608fb35c752"
+        }
+      },
+      "fileName": "__INTERNAL_GT_TEMPLATE_NAME__",
+      "staged": false
+    }
+  ]
 }
