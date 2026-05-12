@@ -1,0 +1,20 @@
+{
+  "$schema": "https://assets.gtx.dev/config-schema.json",
+  "locales": [
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt-BR",
+    "zh",
+    "ja"
+  ],
+  "baseUrl": "https://brian-api.gt-proxy.com",
+  "defaultLocale": "en",
+  "files": {
+    "gt": {
+      "output": "public/_gt/[locale].json"
+    }
+  },
+  "framework": "next-app"
+}
