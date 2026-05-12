@@ -10,7 +10,7 @@
     "ja"
   ],
   "baseUrl": "https://brian-api.gt-proxy.com",
-  "defaultLocale": "en",
+  "defaultLocale": "en-US",
   "files": {
     "gt": {
       "output": "public/_gt/[locale].json"
