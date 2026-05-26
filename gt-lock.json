@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "branchId": "",
+  "entries": [
+    {
+      "fileId": "879f3a5f954ee8b75bf1e91f4ea9916b41c933e5beba7eb6362647a637c9c66d",
+      "versionId": "aa843673606b366b097f62f1f0a51ec621a3406817c56ebfa4172cb4deefff73",
+      "translations": {
+        "zh": {
+          "updatedAt": "2026-05-26T17:17:45.189Z",
+          "fileName": "/root/repo/public/_gt/zh.json",
+          "postProcessHash": "efeb2dc164e57f0879e66814372c48ae5146b71c8f66b08377e6765d7a634df1"
+        },
+        "de": {
+          "updatedAt": "2026-05-26T17:17:45.189Z",
+          "fileName": "/root/repo/public/_gt/de.json",
+          "postProcessHash": "91dda3d41acbfe6a0b798bbe90839772b7361cefb6b594e8bce41c447becccb0"
+        },
+        "ja": {
+          "updatedAt": "2026-05-26T17:17:45.190Z",
+          "fileName": "/root/repo/public/_gt/ja.json",
+          "postProcessHash": "c03af5d7724387ae3cae8240b908f75ea3917fb9e94f8bf45f4927489d0ac008"
+        },
+        "fr": {
+          "updatedAt": "2026-05-26T17:17:45.191Z",
+          "fileName": "/root/repo/public/_gt/fr.json",
+          "postProcessHash": "48d0dafc396045966921033a819bbab20e6d14a1d1dae6a13af48e3aa402c5d4"
+        },
+        "es": {
+          "updatedAt": "2026-05-26T17:17:45.191Z",
+          "fileName": "/root/repo/public/_gt/es.json",
+          "postProcessHash": "dcaa561f6c58ffdd19921072f366eed5ab1c43315547aa035c6d1c6fc04b8f93"
+        },
+        "it": {
+          "updatedAt": "2026-05-26T17:17:45.191Z",
+          "fileName": "/root/repo/public/_gt/it.json",
+          "postProcessHash": "9600405efd8b44e072e05db2d4539bcdb18dde3103a94b0e741084bdb6449859"
+        },
+        "pt-BR": {
+          "updatedAt": "2026-05-26T17:17:45.192Z",
+          "fileName": "/root/repo/public/_gt/pt-BR.json",
+          "postProcessHash": "aa69bb7442510f4fcb8e297deb588d23faae38abba34a04abab7b09434d26d75"
+        }
+      },
+      "fileName": "__INTERNAL_GT_TEMPLATE_NAME__",
+      "staged": false
+    }
+  ]
+}
