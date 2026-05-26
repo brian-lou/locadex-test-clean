@@ -1,1 +1,99 @@
-{}
+{
+  "039ccefb7f335e27": "Généré par Create Next App",
+  "0c088ae4cce7f188": "Logomark Vercel",
+  "5aa871958a8f167b": "Create Next App",
+  "5b97d81239d493fe": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "t": "Image"
+          },
+          "Déployer maintenant"
+        ],
+        "i": 2,
+        "t": "a"
+      },
+      {
+        "c": "Lire la Docs",
+        "i": 4,
+        "t": "a"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "71e7df991a13fd70": {
+    "c": [
+      {
+        "c": [
+          "Commencez en modifiant ",
+          {
+            "c": "src/app/page.tsx",
+            "i": 3,
+            "t": "code"
+          },
+          "."
+        ],
+        "i": 2,
+        "t": "li"
+      },
+      {
+        "c": "Enregistrez et voyez vos modifications instantanément.",
+        "i": 4,
+        "t": "li"
+      }
+    ],
+    "i": 1,
+    "t": "ol"
+  },
+  "cd4dc4f7eaef5b02": {
+    "c": [
+      {
+        "c": [
+          {
+            "d": {
+              "alt": "File icon"
+            },
+            "i": 3,
+            "t": "Image"
+          },
+          "Apprendre"
+        ],
+        "i": 2,
+        "t": "a"
+      },
+      {
+        "c": [
+          {
+            "d": {
+              "alt": "Window icon"
+            },
+            "i": 5,
+            "t": "Image"
+          },
+          "Exemples"
+        ],
+        "i": 4,
+        "t": "a"
+      },
+      {
+        "c": [
+          {
+            "d": {
+              "alt": "Globe icon"
+            },
+            "i": 7,
+            "t": "Image"
+          },
+          "Aller sur nextjs.org →"
+        ],
+        "i": 6,
+        "t": "a"
+      }
+    ],
+    "i": 1,
+    "t": "footer"
+  }
+}
