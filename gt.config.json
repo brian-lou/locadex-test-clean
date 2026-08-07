@@ -1,0 +1,13 @@
+{
+  "framework": "next-app",
+  "locales": [
+    "es"
+  ],
+  "baseUrl": "https://brian-api.gt-proxy.com",
+  "defaultLocale": "en-US",
+  "files": {
+    "gt": {
+      "output": "public/_gt/[locale].json"
+    }
+  }
+}
