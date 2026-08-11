@@ -1,1 +1,92 @@
-{}
+{
+  "0c088ae4cce7f188": "Logotipo de Vercel",
+  "27ffcf9f4583b9dc": "Icono de globo",
+  "5b97d81239d493fe": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "t": "Image"
+          },
+          "Implementar ahora"
+        ],
+        "i": 2,
+        "t": "a"
+      },
+      {
+        "c": "Lee nuestra documentación",
+        "i": 4,
+        "t": "a"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "71e7df991a13fd70": {
+    "c": [
+      {
+        "c": [
+          "Para empezar, edita ",
+          {
+            "c": "src/app/page.tsx",
+            "i": 3,
+            "t": "code"
+          },
+          "."
+        ],
+        "i": 2,
+        "t": "li"
+      },
+      {
+        "c": "Guarda los cambios y míralos al instante.",
+        "i": 4,
+        "t": "li"
+      }
+    ],
+    "i": 1,
+    "t": "ol"
+  },
+  "81f4d639ae326f49": "Icono de archivo",
+  "ae8e26f27c2077ac": "Icono de ventana",
+  "cd4dc4f7eaef5b02": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "t": "Image"
+          },
+          "Aprende"
+        ],
+        "i": 2,
+        "t": "a"
+      },
+      {
+        "c": [
+          {
+            "i": 5,
+            "t": "Image"
+          },
+          "Ejemplos"
+        ],
+        "i": 4,
+        "t": "a"
+      },
+      {
+        "c": [
+          {
+            "i": 7,
+            "t": "Image"
+          },
+          "Ir a nextjs.org →"
+        ],
+        "i": 6,
+        "t": "a"
+      }
+    ],
+    "i": 1,
+    "t": "footer"
+  },
+  "e4e5b06f9f2359c1": "Logotipo de Next.js"
+}

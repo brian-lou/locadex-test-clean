@@ -1,3 +1,19 @@
 {
-  "locadexModifiedAt": 1786146061103
+  "version": 2,
+  "branchId": "brc_cfajpeyzy6vcxgoj819pff24",
+  "entries": [
+    {
+      "fileId": "879f3a5f954ee8b75bf1e91f4ea9916b41c933e5beba7eb6362647a637c9c66d",
+      "versionId": "99e1305019173b90456d4548b286809b00ec7267a8cf260250c7449de85ae804",
+      "translations": {
+        "es": {
+          "updatedAt": "2026-08-11T05:29:14.389Z",
+          "fileName": "public/_gt/es.json",
+          "postProcessHash": "c1ae79907b0ebc457ae640171c2e657324f63e7be2b375d90a10e1eb6c50f540"
+        }
+      },
+      "fileName": "__INTERNAL_GT_TEMPLATE_NAME__",
+      "staged": false
+    }
+  ]
 }
