@@ -1,0 +1,13 @@
+{
+  "framework": "next-app",
+  "locales": [
+    "es"
+  ],
+  "baseUrl": "https://api.gtx.wtf",
+  "defaultLocale": "en",
+  "files": {
+    "gt": {
+      "output": "public/_gt/[locale].json"
+    }
+  }
+}
