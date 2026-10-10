@@ -1,0 +1,12 @@
+{
+  "framework": "next-app",
+  "locales": [
+    "es"
+  ],
+  "defaultLocale": "en",
+  "files": {
+    "gt": {
+      "output": "public/_gt/[locale].json"
+    }
+  }
+}
